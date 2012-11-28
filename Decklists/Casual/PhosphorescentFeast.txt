@@ -1,0 +1,25 @@
+25 Forest
+
+4 Garruk's Companion
+4 Leatherback Baloth
+4 Llanowar Elves
+1 Overbeing of Myth
+1 Oversoul of Dusk
+4 Primalcrux
+3 Rushwood Elemental
+
+2 Wear Away
+
+4 Harmonize
+4 Phosphorescent Feast
+4 Tower Above
+
+---------
+Sideboard
+
+/*
+PhosFeast.txt
+Eric Brewer
+11/27/11
+Phosphorescent Feast -
+*/

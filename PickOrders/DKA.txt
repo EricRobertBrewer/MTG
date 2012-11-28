@@ -1,0 +1,186 @@
+/*
+DKA.txt
+Eric Brewer
+1/24/12
+Dark Ascension Booster Draft - 
+*/
+
+White
+!Drogskol Reaver - m
+Requiem Angel - r
+!Sorin, Lord of Innistrad - m
+Increasing Devotion - r
+Silverclaw Griffin - c
+Thraben Doomsayer - r
+Burden of Guilt - c
+!Vault of the Archangel - r
+Sudden Disappearance - r
+Hollowhenge Spirit - u
+*Lingering Souls - u
+Elgaud Inquisitor - u
+Lotal Cathar - c
+Gather the Townsfolk - c
+Niblis of the Mist - c
+Faith's Shield - u
+Thalia, Guardian of Thraben - r
+Niblis of the Urn - u
+Midnight Guard - c
+Thraben Heretic - u
+Gavony Ironwright - u
+Skillful Lunge - c
+Break of Day - c
+Archangel's Light - m
+*Ray of Revelation - c
+Sanctuary Cat - c
+Bar the Door - c
+Seance - r
+Curse of Exhaustion - u
+
+Blue
+!Drogskol Reaver - m
+Dungeon Geists - r
+Increasing Confusion - r
+Beguiler of Wills - m
+!Havengul Lich - m
+Havenghoul Runebinder - r
+Niblis of the Breath - u
+Geralf's Mindcrusher - r
+Relentless Skaab - u
+Tower Geist - c
+Griptide - c
+!Diregraf Captain - u
+!Drogskol Captain - u 
+Soul Seizer - u
+Stormbound Geist - c
+Nephalia Seaskite - c
+Thought Scour - c
+Divination - c
+Screeching Skaab - c
+Headless Skaab - c
+Chant of the Skifsang - c
+Curse of Echoes - r
+Artful Dodge - c
+Bone to Ash - c
+Shriekgeist - c
+*Saving Grasp - c
+*Mystic Retrieval - u
+Call to the Kindred - r
+Chill of Foreboding - u
+Secrets of the Dead - u
+Counterlash - r
+
+Black
+Mikaeus, the Unhallowed - m
+!Sorin, Lord of Innistrad - m
+!Falkenrath Aristocrat - m
+!Havengul Lich - m
+Fiend of the Shadows - r
+Vengeful Vampire - u
+Farbog Boneflinger - u
+Death's Caress - c
+Tragic Slip - c
+!Vault of the Archangel - r
+Harrowing Journey - u
+!Stromkirk Captain - u
+Geralf's Messenger - r
+!Diregraf Captain - u
+Ravenous Demon - r
+*Reap the Seagraf - c
+Highborn Ghoul - c
+Skirsdag Flayer - u
+Wakedancer - u
+!Grim Backwoods - r
+Chosen of Markov - c
+Sightless Ghoul - c
+Undying Evil - c
+Falkenrath Torturer - c
+Gravecrawler - r
+Gruesome Discovery - c
+Black Cat - c
+Gravepurge - c
+Increasing Ambition - r
+*Deadly Allure - u
+Zombie Apocalypse - r
+Spiteful Shadows - c
+Curse of Thirst - u
+Curse of Misfortunes - r
+
+Red
+Moonveil Dragon - m
+Flayer of the Hatebound - r
+!Huntmaster of the Fells - m
+!Falkenrath Aristocrat - m
+Hellrider - r
+*Fires of Undeath - c
+Blood Feud - u
+*Burning Oil - u
+Wrack with Madness - c
+Markov Warlord - u
+Nearheath Stalker - c
+!Stromkirk Captain - u
+Markov Blademaster - r
+Hinterland Hermit - c
+Erdwal Ripper - c
+Forge Devil - c
+Russet Wolves - c
+Mondronen Shaman - r
+!Immerwolf - u
+Torch Fiend - c
+Afflicted Deserter - u
+Heckling Fiends - u
+Fling - c
+Pyreheart Wolf - u
+Alpha Brawl - r
+Faithless Looting - c
+Curse of Bloodletting - r
+Talons of Falkenrath - c
+Scorch the Fields - c
+Shattered Perception - u
+Increasing Vengeance - r
+
+Green
+Vorapede - m
+!Huntmaster of the Fells - m
+Increasing Savagery - r
+Deranged Outcast - r
+Dawntreader Elk - c
+Scorned Villager - c
+Briarpack Alpha - u
+Hollowhenge Beast - c
+Village Survivors - u
+Strangleroot Geist - u
+Kessig Recluse - c
+Wolfbitten Captive - r
+!Immerwolf - u
+Somberwald Dryad - c
+Crushing Vines - c
+Ulvenwald Bear - c
+*Wild Hunger - u
+!Grim Backwoods - r
+Ghoultree - r
+Gravetiller Wurm - u
+Hunger of the Howlpack - c
+*Tracker's Instincts - u
+Predator Ooze - r
+Grim Flowering - u
+Young Wolf - c
+Lambholt Elder - u
+Clinging Mists - c 
+Feed the Pack - r
+Lost in the Woods - r
+Favor of the Woods - c
+
+Colorless
+Evolving Wilds - c
+Helvault - m
+Avacyn's Collar - u
+Warden of the Wall - u
+Executioner's Hood - c
+Elbrus, the Binding Blade - m
+Jar of Eyeballs - r
+Haunted Fengraf - c
+Wolfhunter's Quiver - u
+Heavy Mattock - c
+Grafdigger's Cage - r
+Chalice of Life - u
+Altar of the Lost - u

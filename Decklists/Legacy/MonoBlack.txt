@@ -1,0 +1,36 @@
+/*
+MonoBlack.txt
+Eric Brewer
+10/28/11
+Mono Black -
+*/
+
+Land
+4 Wasteland
+20 Swamp
+
+Creature
+4 Dark Confidant
+
+Planeswalker
+3 Liliana of the Veil
+
+Instant
+2 Diabolic Edict
+2 Victim of Night
+
+Sorcery
+4 Hymn to Tourach
+4 Inquisition of Kozilek
+2 Sign in Blood
+4 Sinkhole
+
+Artifact
+3 Chrome Mox
+4 Helm of Obedience
+
+Enchantment
+4 Leyline of the Void
+
+---------
+Sideboard

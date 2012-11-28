@@ -1,0 +1,23 @@
+#! /bin/bash
+# filloutmythic
+# Eric Brewer
+# 10/9/11
+# fillout - Finishes filling out an MTG/Set file which contains Mythic Rares
+
+if test $# -eq 0
+   then
+	echo "You must supply at least one argument."
+	exit 1
+fi
+
+awk -F '|' '{print $1, "| " $3, "| " $2, "| " $4}' temp > t
+
+grep 'Rare' t | grep -v 'Mythic' | grep -c . >> $1
+grep 'Uncommon' t | grep -c . >> $1
+grep 'Common' t | grep -c . >> $1
+grep 'Mythic Rare' t | grep -c . >> $1
+
+grep 'Rare' t | grep -v 'Mythic' >> $1
+grep 'Uncommon' t >> $1
+grep 'Common' t >> $1
+grep 'Mythic' t >> $1

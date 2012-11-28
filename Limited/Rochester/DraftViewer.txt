@@ -1,0 +1,379 @@
+Rochester Draft - ZEN LOR MBS
+PACK: 1
+ 1 Emeria Angel | 2WW | Creature - Angel 3/3 | Rare
+ 2 Vampire Hexmage | BB | Creature - Vampire Shaman 2/1 | Uncommon
+ 3 Arrow Volley Trap | 3WW | Instant - Trap | Uncommon
+ 4 Inferno Trap | 3R | Instant - Trap | Uncommon
+ 5 Piranha Marsh |  | Land | Common
+ 6 Tempest Owl | 1U | Creature - Bird 1/2 | Common
+ 7 Vines of Vastwood | G | Instant | Common
+ 8 Harrow | 2G | Instant | Common
+ 9 Guul Draz Vampire | B | Creature - Vampire Rogue 1/1 | Common
+10 Plated Geopede | 1R | Creature - Insect 1/1 | Common
+11 Demolish | 3R | Sorcery | Common
+12 Molten Ravager | 2R | Creature - Elemental 0/4 | Common
+13 Oran-Rief Recluse | 2G | Creature - Spider 1/3 | Common
+14 Giant Scorpion | 2B | Creature - Scorpion 1/3 | Common
+15 Nissa's Chosen | GG | Creature - Elf Warrior 2/3 | Common
+PACK: 2
+ 1 Primal Command | 3GG | Sorcery | Rare
+ 2 Shriekmaw | 4B | Creature - Elemental 3/2 | Uncommon
+ 3 Final Revels | 4B | Sorcery | Uncommon
+ 4 Imperious Perfect | 2G | Creature - Elf Warrior 2/2 | Uncommon
+ 5 Inkfathom Divers | 3UU | Creature - Merfolk Soldier 3/3 | Common
+ 6 Shimmering Grotto |  | Land | Common
+ 7 Glimmerdust Nap | 2U | Enchantment - Aura | Common
+ 8 Smokebraider | 1R | Creature - Elemental Shaman 1/1 | Common
+ 9 Leaf Gilder | 1G | Creature - Elf Druid 2/1 | Common
+10 Boggart Loggers | 2B | Creature - Goblin Rogue 2/1 | Common
+11 Battlewand Oak | 2G | Creature - Treefolk Warrior 1/3 | Common
+12 Consuming Bonfire | 3RR | Tribal Sorcery - Elemental | Common
+13 Spring Cleaning | 1G | Instant | Common
+14 Goldmeadow Harrier | W | Creature - Kithkin Soldier 1/1 | Common
+15 Woodland Changeling | 1G | Creature - Shapeshifter 2/2 | Common
+PACK: 3
+ 1 Distant Memories | 2UU | Sorcery | Rare
+ 2 Kuldotha Flamefiend | 4RR | Creature - Elemental 4/4 | Uncommon
+ 3 Silverskin Armor | 2 | Artifact - Equipment | Uncommon
+ 4 Flesh-Eater Imp | 3B | Creature - Imp 2/2 | Uncommon
+ 5 Tangle Mantis | 2GG | Creature - Insect 3/4 | Common
+ 6 Phyresis | 1B | Enchantment - Aura | Common
+ 7 Leonin Skyhunter | WW | Creature - Cat Knight 2/2 | Common
+ 8 Hexplate Golem | 7 | Artifact Creature - Golem 5/7 | Common
+ 9 Gust-Skimmer | 2 | Artifact Creature - Insect 2/1 | Common
+10 Myr Sire | 2 | Artifact Creature - Myr 1/1 | Common
+11 Loxodon Partisan | 4W | Creature - Elephant Soldier 3/4 | Common
+12 Mirran Spy | 2U | Creature - Drone 1/3 | Common
+13 Unnatural Predation | G | Instant | Common
+14 Ardent Recruit | W | Creature - Human Soldier 1/1 | Common
+15 Divine Offering | 1W | Instant | Common
+PACK: 4
+ 1 Archive Trap | 3UU | Instant - Trap | Rare
+ 2 Landbind Ritual | 3WW | Sorcery | Uncommon
+ 3 Trapmaker's Snare | 1U | Instant | Uncommon
+ 4 Hedron Crab | U | Creature - Crab 0/2 | Uncommon
+ 5 Nimbus Wings | 1W | Enchantment - Aura | Common
+ 6 Grim Discovery | 1B | Sorcery | Common
+ 7 Plated Geopede | 1R | Creature - Insect 1/1 | Common
+ 8 Soaring Seacliff |  | Land | Common
+ 9 Expedition Map | 1 | Artifact | Common
+10 Cliff Threader | 1W | Creature - Kor Scout 2/1 | Common
+11 Disfigure | B | Instant | Common
+12 Umara Raptor | 2U | Creature - Bird Ally 1/1 | Common
+13 Lethargy Trap | 3U | Instant - Trap | Common
+14 Noble Vestige | 2W | Creature - Spirit 1/2 | Common
+15 Windrider Eel | 3U | Creature - Fish 2/2 | Common
+PACK: 5
+ 1 Thorn of Amethyst | 2 | Artifact | Rare
+ 2 Changeling Berserker | 3R | Creature - Shapeshifter 5/3 | Uncommon
+ 3 Changeling Hero | 4W | Creature - Shapeshifter 4/4 | Uncommon
+ 4 Boggart Shenanigans | 2R | Tribal Enchantment - Goblin | Uncommon
+ 5 Oblivion Ring | 2W | Enchantment | Common
+ 6 Elvish Branchbender | 2G | Creature - Elf Druid 2/2 | Common
+ 7 Surge of Thoughtweft | 1W | Tribal Instant - Kithkin | Common
+ 8 Blades of Velis Vel | 1R | Tribal Instant - Shapeshifter | Common
+ 9 Springjack Knight | 2W | Creature - Kithkin Knight 2/1 | Common
+10 Protective Bubble | 3U | Enchantment - Aura | Common
+11 Flamekin Brawler | R | Creature - Elemental Warrior 0/2 | Common
+12 Eyeblight's Ending | 2B | Tribal Instant - Elf | Common
+13 Smokebraider | 1R | Creature - Elemental Shaman 1/1 | Common
+14 Scarred Vinebreeder | 1B | Creature - Elf Shaman 1/1 | Common
+15 Runed Stalactite | 1 | Artifact - Equipment | Common
+PACK: 6
+ 1 Green Sun's Zenith | XG | Sorcery | Rare
+ 2 Viridian Claw | 2 | Artifact - Equipment | Uncommon
+ 3 Pierce Strider | 4 | Artifact Creature - Construct 3/3 | Uncommon
+ 4 Phyrexian Juggernaut | 6 | Artifact Creature - Juggernaut 5/5 | Uncommon
+ 5 Kuldotha Ringleader | 4R | Creature - Giant Berserker 4/4 | Common
+ 6 Gust-Skimmer | 2 | Artifact Creature - Insect 2/1 | Common
+ 7 Dross Ripper | 4 | Artifact Creature - Hound 3/3 | Common
+ 8 Scourge Servant | 4B | Creature - Zombie 3/3 | Common
+ 9 Serum Raker | 2UU | Creature - Drake 3/2 | Common
+10 Mirran Mettle | G | Instant | Common
+11 Morbid Plunder | 1BB | Sorcery | Common
+12 Hexplate Golem | 7 | Artifact Creature - Golem 5/7 | Common
+13 Phyrexian Rager | 2B | Creature - Horror 2/2 | Common
+14 Gnathosaur | 4RR | Creature - Lizard 5/4 | Common
+15 Leonin Skyhunter | WW | Creature - Cat Knight 2/2 | Common
+PACK: 7
+ 1 Archive Trap | 3UU | Instant - Trap | Rare
+ 2 Summoner's Bane | 2UU | Instant | Uncommon
+ 3 Kazandu Refuge |  | Land | Uncommon
+ 4 Shepherd of the Lost | 4W | Creature - Angel 3/3 | Uncommon
+ 5 Khalni Heart Expedition | 1G | Enchantment | Common
+ 6 Journey to Nowhere | 1W | Enchantment | Common
+ 7 Tempest Owl | 1U | Creature - Bird 1/2 | Common
+ 8 Spreading Seas | 1U | Enchantment - Aura | Common
+ 9 Goblin Shortcutter | 1R | Creature - Goblin Scout 2/1 | Common
+10 Caravan Hurda | 4W | Creature - Giant 1/5 | Common
+11 Lethargy Trap | 3U | Instant - Trap | Common
+12 Welkin Tern | 1U | Creature - Bird 2/1 | Common
+13 Windrider Eel | 3U | Creature - Fish 2/2 | Common
+14 Torch Slinger | 2R | Creature - Goblin Shaman 2/2 | Common
+15 Joraga Bard | 3G | Creature - Elf Rogue Ally 1/4 | Common
+PACK: 8
+ 1 Thousand-Year Elixir | 3 | Artifact | Rare
+ 2 Wren's Run Vanquisher | 1G | Creature - Elf Warrior 3/3 | Uncommon
+ 3 Ethereal Whiskergill | 3U | Creature - Elemental 4/3 | Uncommon
+ 4 Captivating Glance | 2U | Enchantment - Aura | Uncommon
+ 5 Gilt-Leaf Ambush | 2G | Tribal Instant - Elf | Common
+ 6 Dreamspoiler Witches | 3B | Creature - Faerie Wizard 2/2 | Common
+ 7 Oblivion Ring | 2W | Enchantment | Common
+ 8 Giant's Ire | 3R | Tribal Sorcery - Giant | Common
+ 9 Bog Hoodlums | 5B | Creature - Goblin Warrior 4/1 | Common
+10 Tideshaper Mystic | U | Creature - Merfolk Wizard 1/1 | Common
+11 Eyeblight's Ending | 2B | Tribal Instant - Elf | Common
+12 Kinsbaile Balloonist | 3W | Creature - Kithkin Soldier 2/2 | Common
+13 Blades of Velis Vel | 1R | Tribal Instant - Shapeshifter | Common
+14 Mournwhelk | 6B | Creature - Elemental 3/3 | Common
+15 Surge of Thoughtweft | 1W | Tribal Instant - Kithkin | Common
+PACK: 9
+ 1 Inkmoth Nexus |  | Land | Rare
+ 2 Piston Sledge | 3 | Artifact - Equipment | Uncommon
+ 3 Viridian Corrupter | 1GG | Creature - Elf Shaman 2/2 | Uncommon
+ 4 Plaguemaw Beast | 3GG | Creature - Beast 4/3 | Uncommon
+ 5 Banishment Decree | 3WW | Instant | Common
+ 6 Myr Sire | 2 | Artifact Creature - Myr 1/1 | Common
+ 7 Dross Ripper | 4 | Artifact Creature - Hound 3/3 | Common
+ 8 Spire Serpent | 4U | Creature - Serpent 3/5 | Common
+ 9 Spread the Sickness | 4B | Sorcery | Common
+10 Glissa's Courier | 1GG | Creature - Horror 2/3 | Common
+11 Serum Raker | 2UU | Creature - Drake 3/2 | Common
+12 Crush | R | Instant | Common
+13 Shriekhorn | 1 | Artifact | Common
+14 Frantic Salvage | 3W | Instant | Common
+15 Razorfield Rhino | 6 | Artifact Creature - Rhino 4/4 | Common
+PACK: 10
+ 1 Kabira Evangel | 2W | Creature - Human Cleric Ally 2/3 | Rare
+ 2 Vampire Nighthawk | 1BB | Creature - Vampire Shaman 2/3 | Uncommon
+ 3 Greenweaver Druid | 2G | Creature - Elf Druid 1/1 | Uncommon
+ 4 Seascape Aerialist | 4U | Creature - Merfolk Wizard Ally 2/3 | Uncommon
+ 5 Narrow Escape | 2W | Instant | Common
+ 6 Ruinous Minotaur | 1RR | Creature - Minotaur Warrior 5/2 | Common
+ 7 Sky Ruin Drake | 4U | Creature - Drake 2/5 | Common
+ 8 Piranha Marsh |  | Land | Common
+ 9 Makindi Shieldmate | 2W | Creature - Kor Soldier Ally 0/3 | Common
+10 Bog Tatters | 4B | Creature - Wraith 4/2 | Common
+11 Bladetusk Boar | 3R | Creature - Boar 3/2 | Common
+12 Goblin War Paint | 1R | Enchantment - Aura | Common
+13 Vampire's Bite | B | Instant | Common
+14 Soul Stair Expedition | B | Enchantment | Common
+15 Torch Slinger | 2R | Creature - Goblin Shaman 2/2 | Common
+PACK: 11
+ 1 Twinning Glass | 4 | Artifact | Rare
+ 2 Elvish Harbinger | 2G | Creature - Elf Druid 1/2 | Uncommon
+ 3 Squeaking Pie Sneak | 1B | Creature - Goblin Rogue 2/2 | Uncommon
+ 4 Entangling Trap | 1W | Enchantment | Uncommon
+ 5 Hornet Harasser | 2BB | Creature - Goblin Shaman 2/2 | Common
+ 6 Spring Cleaning | 1G | Instant | Common
+ 7 Tarfire | R | Tribal Instant - Goblin | Common
+ 8 Amoeboid Changeling | 1U | Creature - Shapeshifter 1/1 | Common
+ 9 Boggart Forager | R | Creature - Goblin Rogue 1/1 | Common
+10 Skeletal Changeling | 1B | Creature - Shapeshifter 1/1 | Common
+11 Tideshaper Mystic | U | Creature - Merfolk Wizard 1/1 | Common
+12 Lowland Oaf | 3R | Creature - Giant Warrior 3/3 | Common
+13 Springleaf Drum | 1 | Artifact | Common
+14 Protective Bubble | 3U | Enchantment - Aura | Common
+15 Spellstutter Sprite | 1U | Creature - Faerie Wizard 1/1 | Common
+PACK: 12
+ 1 Contested War Zone |  | Land | Rare
+ 2 Viridian Claw | 2 | Artifact - Equipment | Uncommon
+ 3 Leonin Relic-Warder | WW | Creature - Cat Cleric 2/2 | Uncommon
+ 4 Plague Myr | 2 | Artifact Creature - Myr 1/1 | Uncommon
+ 5 Virulent Wound | B | Instant | Common
+ 6 Pistus Strike | 2G | Instant | Common
+ 7 Gnathosaur | 4RR | Creature - Lizard 5/4 | Common
+ 8 Rally the Forces | 2R | Instant | Common
+ 9 Glissa's Courier | 1GG | Creature - Horror 2/3 | Common
+10 Tangle Hulk | 5 | Artifact Creature - Beast 5/3 | Common
+11 Tangle Mantis | 2GG | Creature - Insect 3/4 | Common
+12 Ichor Wellspring | 2 | Artifact | Common
+13 Blisterstick Shaman | 2R | Creature - Goblin Shaman 2/1 | Common
+14 Crush | R | Instant | Common
+15 Loxodon Partisan | 4W | Creature - Elephant Soldier 3/4 | Common
+
+=======================
+PLAYER 1's PILE:
+Emeria Angel | 2WW | Creature - Angel 3/3 | Rare
+Arrow Volley Trap | 3WW | Instant - Trap | Uncommon
+Oran-Rief Recluse | 2G | Creature - Spider 1/3 | Common
+Imperious Perfect | 2G | Creature - Elf Warrior 2/2 | Uncommon
+Inkfathom Divers | 3UU | Creature - Merfolk Soldier 3/3 | Common
+Consuming Bonfire | 3RR | Tribal Sorcery - Elemental | Common
+Spring Cleaning | 1G | Instant | Common
+Silverskin Armor | 2 | Artifact - Equipment | Uncommon
+Phyresis | 1B | Enchantment - Aura | Common
+Loxodon Partisan | 4W | Creature - Elephant Soldier 3/4 | Common
+Ardent Recruit | W | Creature - Human Soldier 1/1 | Common
+Landbind Ritual | 3WW | Sorcery | Uncommon
+Plated Geopede | 1R | Creature - Insect 1/1 | Common
+Cliff Threader | 1W | Creature - Kor Scout 2/1 | Common
+Windrider Eel | 3U | Creature - Fish 2/2 | Common
+Thorn of Amethyst | 2 | Artifact | Rare
+Blades of Velis Vel | 1R | Tribal Instant - Shapeshifter | Common
+Springjack Knight | 2W | Creature - Kithkin Knight 2/1 | Common
+Phyrexian Juggernaut | 6 | Artifact Creature - Juggernaut 5/5 | Uncommon
+Kuldotha Ringleader | 4R | Creature - Giant Berserker 4/4 | Common
+Hexplate Golem | 7 | Artifact Creature - Golem 5/7 | Common
+Phyrexian Rager | 2B | Creature - Horror 2/2 | Common
+Kazandu Refuge |  | Land | Uncommon
+Journey to Nowhere | 1W | Enchantment | Common
+Lethargy Trap | 3U | Instant - Trap | Common
+Torch Slinger | 2R | Creature - Goblin Shaman 2/2 | Common
+Wren's Run Vanquisher | 1G | Creature - Elf Warrior 3/3 | Uncommon
+Oblivion Ring | 2W | Enchantment | Common
+Tideshaper Mystic | U | Creature - Merfolk Wizard 1/1 | Common
+Surge of Thoughtweft | 1W | Tribal Instant - Kithkin | Common
+Inkmoth Nexus |  | Land | Rare
+Dross Ripper | 4 | Artifact Creature - Hound 3/3 | Common
+Glissa's Courier | 1GG | Creature - Horror 2/3 | Common
+Ruinous Minotaur | 1RR | Creature - Minotaur Warrior 5/2 | Common
+Narrow Escape | 2W | Instant | Common
+Kabira Evangel | 2W | Creature - Human Cleric Ally 2/3 | Rare
+Soul Stair Expedition | B | Enchantment | Common
+Spring Cleaning | 1G | Instant | Common
+Amoeboid Changeling | 1U | Creature - Shapeshifter 1/1 | Common
+Lowland Oaf | 3R | Creature - Giant Warrior 3/3 | Common
+Tideshaper Mystic | U | Creature - Merfolk Wizard 1/1 | Common
+Plague Myr | 2 | Artifact Creature - Myr 1/1 | Uncommon
+Glissa's Courier | 1GG | Creature - Horror 2/3 | Common
+Tangle Hulk | 5 | Artifact Creature - Beast 5/3 | Common
+Crush | R | Instant | Common
+PLAYER 2's PILE:
+Inferno Trap | 3R | Instant - Trap | Uncommon
+Plated Geopede | 1R | Creature - Insect 1/1 | Common
+Molten Ravager | 2R | Creature - Elemental 0/4 | Common
+Tempest Owl | 1U | Creature - Bird 1/2 | Common
+Shriekmaw | 4B | Creature - Elemental 3/2 | Uncommon
+Smokebraider | 1R | Creature - Elemental Shaman 1/1 | Common
+Leaf Gilder | 1G | Creature - Elf Druid 2/1 | Common
+Flesh-Eater Imp | 3B | Creature - Imp 2/2 | Uncommon
+Tangle Mantis | 2GG | Creature - Insect 3/4 | Common
+Mirran Spy | 2U | Creature - Drone 1/3 | Common
+Unnatural Predation | G | Instant | Common
+Trapmaker's Snare | 1U | Instant | Uncommon
+Grim Discovery | 1B | Sorcery | Common
+Disfigure | B | Instant | Common
+Noble Vestige | 2W | Creature - Spirit 1/2 | Common
+Changeling Berserker | 3R | Creature - Shapeshifter 5/3 | Uncommon
+Surge of Thoughtweft | 1W | Tribal Instant - Kithkin | Common
+Protective Bubble | 3U | Enchantment - Aura | Common
+Runed Stalactite | 1 | Artifact - Equipment | Common
+Green Sun's Zenith | XG | Sorcery | Rare
+Scourge Servant | 4B | Creature - Zombie 3/3 | Common
+Serum Raker | 2UU | Creature - Drake 3/2 | Common
+Shepherd of the Lost | 4W | Creature - Angel 3/3 | Uncommon
+Khalni Heart Expedition | 1G | Enchantment | Common
+Welkin Tern | 1U | Creature - Bird 2/1 | Common
+Windrider Eel | 3U | Creature - Fish 2/2 | Common
+Ethereal Whiskergill | 3U | Creature - Elemental 4/3 | Uncommon
+Dreamspoiler Witches | 3B | Creature - Faerie Wizard 2/2 | Common
+Eyeblight's Ending | 2B | Tribal Instant - Elf | Common
+Mournwhelk | 6B | Creature - Elemental 3/3 | Common
+Plaguemaw Beast | 3GG | Creature - Beast 4/3 | Uncommon
+Spire Serpent | 4U | Creature - Serpent 3/5 | Common
+Crush | R | Instant | Common
+Razorfield Rhino | 6 | Artifact Creature - Rhino 4/4 | Common
+Seascape Aerialist | 4U | Creature - Merfolk Wizard Ally 2/3 | Uncommon
+Bladetusk Boar | 3R | Creature - Boar 3/2 | Common
+Bog Tatters | 4B | Creature - Wraith 4/2 | Common
+Hornet Harasser | 2BB | Creature - Goblin Shaman 2/2 | Common
+Squeaking Pie Sneak | 1B | Creature - Goblin Rogue 2/2 | Uncommon
+Protective Bubble | 3U | Enchantment - Aura | Common
+Springleaf Drum | 1 | Artifact | Common
+Leonin Relic-Warder | WW | Creature - Cat Cleric 2/2 | Uncommon
+Rally the Forces | 2R | Instant | Common
+Virulent Wound | B | Instant | Common
+Ichor Wellspring | 2 | Artifact | Common
+PLAYER 3's PILE:
+Harrow | 2G | Instant | Common
+Vines of Vastwood | G | Instant | Common
+Nissa's Chosen | GG | Creature - Elf Warrior 2/3 | Common
+Demolish | 3R | Sorcery | Common
+Primal Command | 3GG | Sorcery | Rare
+Glimmerdust Nap | 2U | Enchantment - Aura | Common
+Boggart Loggers | 2B | Creature - Goblin Rogue 2/1 | Common
+Woodland Changeling | 1G | Creature - Shapeshifter 2/2 | Common
+Distant Memories | 2UU | Sorcery | Rare
+Hexplate Golem | 7 | Artifact Creature - Golem 5/7 | Common
+Gust-Skimmer | 2 | Artifact Creature - Insect 2/1 | Common
+Hedron Crab | U | Creature - Crab 0/2 | Uncommon
+Nimbus Wings | 1W | Enchantment - Aura | Common
+Umara Raptor | 2U | Creature - Bird Ally 1/1 | Common
+Lethargy Trap | 3U | Instant - Trap | Common
+Changeling Hero | 4W | Creature - Shapeshifter 4/4 | Uncommon
+Elvish Branchbender | 2G | Creature - Elf Druid 2/2 | Common
+Flamekin Brawler | R | Creature - Elemental Warrior 0/2 | Common
+Scarred Vinebreeder | 1B | Creature - Elf Shaman 1/1 | Common
+Viridian Claw | 2 | Artifact - Equipment | Uncommon
+Dross Ripper | 4 | Artifact Creature - Hound 3/3 | Common
+Mirran Mettle | G | Instant | Common
+Leonin Skyhunter | WW | Creature - Cat Knight 2/2 | Common
+Archive Trap | 3UU | Instant - Trap | Rare
+Spreading Seas | 1U | Enchantment - Aura | Common
+Goblin Shortcutter | 1R | Creature - Goblin Scout 2/1 | Common
+Captivating Glance | 2U | Enchantment - Aura | Uncommon
+Gilt-Leaf Ambush | 2G | Tribal Instant - Elf | Common
+Kinsbaile Balloonist | 3W | Creature - Kithkin Soldier 2/2 | Common
+Blades of Velis Vel | 1R | Tribal Instant - Shapeshifter | Common
+Viridian Corrupter | 1GG | Creature - Elf Shaman 2/2 | Uncommon
+Piston Sledge | 3 | Artifact - Equipment | Uncommon
+Serum Raker | 2UU | Creature - Drake 3/2 | Common
+Spread the Sickness | 4B | Sorcery | Common
+Greenweaver Druid | 2G | Creature - Elf Druid 1/1 | Uncommon
+Makindi Shieldmate | 2W | Creature - Kor Soldier Ally 0/3 | Common
+Sky Ruin Drake | 4U | Creature - Drake 2/5 | Common
+Torch Slinger | 2R | Creature - Goblin Shaman 2/2 | Common
+Elvish Harbinger | 2G | Creature - Elf Druid 1/2 | Uncommon
+Skeletal Changeling | 1B | Creature - Shapeshifter 1/1 | Common
+Boggart Forager | R | Creature - Goblin Rogue 1/1 | Common
+Contested War Zone |  | Land | Rare
+Pistus Strike | 2G | Instant | Common
+Blisterstick Shaman | 2R | Creature - Goblin Shaman 2/1 | Common
+Loxodon Partisan | 4W | Creature - Elephant Soldier 3/4 | Common
+PLAYER 4's PILE:
+Guul Draz Vampire | B | Creature - Vampire Rogue 1/1 | Common
+Giant Scorpion | 2B | Creature - Scorpion 1/3 | Common
+Vampire Hexmage | BB | Creature - Vampire Shaman 2/1 | Uncommon
+Piranha Marsh |  | Land | Common
+Final Revels | 4B | Sorcery | Uncommon
+Shimmering Grotto |  | Land | Common
+Battlewand Oak | 2G | Creature - Treefolk Warrior 1/3 | Common
+Goldmeadow Harrier | W | Creature - Kithkin Soldier 1/1 | Common
+Kuldotha Flamefiend | 4RR | Creature - Elemental 4/4 | Uncommon
+Leonin Skyhunter | WW | Creature - Cat Knight 2/2 | Common
+Myr Sire | 2 | Artifact Creature - Myr 1/1 | Common
+Divine Offering | 1W | Instant | Common
+Archive Trap | 3UU | Instant - Trap | Rare
+Soaring Seacliff |  | Land | Common
+Expedition Map | 1 | Artifact | Common
+Boggart Shenanigans | 2R | Tribal Enchantment - Goblin | Uncommon
+Oblivion Ring | 2W | Enchantment | Common
+Eyeblight's Ending | 2B | Tribal Instant - Elf | Common
+Smokebraider | 1R | Creature - Elemental Shaman 1/1 | Common
+Pierce Strider | 4 | Artifact Creature - Construct 3/3 | Uncommon
+Gust-Skimmer | 2 | Artifact Creature - Insect 2/1 | Common
+Morbid Plunder | 1BB | Sorcery | Common
+Gnathosaur | 4RR | Creature - Lizard 5/4 | Common
+Summoner's Bane | 2UU | Instant | Uncommon
+Tempest Owl | 1U | Creature - Bird 1/2 | Common
+Caravan Hurda | 4W | Creature - Giant 1/5 | Common
+Joraga Bard | 3G | Creature - Elf Rogue Ally 1/4 | Common
+Thousand-Year Elixir | 3 | Artifact | Rare
+Giant's Ire | 3R | Tribal Sorcery - Giant | Common
+Bog Hoodlums | 5B | Creature - Goblin Warrior 4/1 | Common
+Myr Sire | 2 | Artifact Creature - Myr 1/1 | Common
+Banishment Decree | 3WW | Instant | Common
+Frantic Salvage | 3W | Instant | Common
+Shriekhorn | 1 | Artifact | Common
+Vampire Nighthawk | 1BB | Creature - Vampire Shaman 2/3 | Uncommon
+Piranha Marsh |  | Land | Common
+Vampire's Bite | B | Instant | Common
+Goblin War Paint | 1R | Enchantment - Aura | Common
+Entangling Trap | 1W | Enchantment | Uncommon
+Tarfire | R | Tribal Instant - Goblin | Common
+Twinning Glass | 4 | Artifact | Rare
+Spellstutter Sprite | 1U | Creature - Faerie Wizard 1/1 | Common
+Viridian Claw | 2 | Artifact - Equipment | Uncommon
+Gnathosaur | 4RR | Creature - Lizard 5/4 | Common
+Tangle Mantis | 2GG | Creature - Insect 3/4 | Common

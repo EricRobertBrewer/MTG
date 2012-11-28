@@ -1,0 +1,45 @@
+4 Evolving Wilds
+7 Forest
+4 Hinterland Harbor
+9 Island
+
+4 Boneyard Wurm
+4 Ghoultree
+4 Kessig Cagebreakers
+4 Molten-Tail Masticore
+4 Screeching Skaab
+4 Splinterfright
+
+4 Dream Twist
+4 Thought Scour
+
+4 Tracker's Instincts
+
+0
+2 Gnaw to the Bone
+1 Memory's Journey
+4 Mental Misstep
+4 Spellskite
+
+Mana Curve
+Land  - 24
+0     - 0
+1     - 8
+2     - 12
+3     - 8
+4     - 0
+5     - 4
+6     - 0
+7     - 0
+8+    - 4
+X     - 0
+
+/*
+UGmadness.txt
+Eric Brewer
+11/27/11
+U/G Madness - 
+
+
+*/
+

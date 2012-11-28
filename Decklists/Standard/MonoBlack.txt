@@ -1,0 +1,50 @@
+26 Swamp
+
+3 Grave Titan
+4 Entomber Exarch
+4 Phyrexian Rager
+
+2 Geth's Verdict
+4 Victim of Night
+2 Wring Flesh
+
+3 Black Sun's Zenith
+4 Distress
+
+4 Mimic Vat
+3 Ratchet Bomb
+
+1 Curse of Death's Hold
+
+0
+1 Curse of Death's Hold
+2 Despise
+2 Evil Presence
+1 Massacre Wurm
+2 Nihil Spellbomb
+2 Phyrexian Obliterator
+4 Sorin's Thirst
+1 Witchbane Orb
+
+Maindeck Curve:
+Land - 26
+0    - 0
+1    - 2
+2    - 13
+3    - 8
+4    - 4
+5    - 1
+6    - 3
+7    - 0
+8+   - 0
+X    - 3
+
+/*
+MonoBlack.txt
+Eric Brewer
+10/13/11
+MonoBlack - Mimic Vat and value creatures.
+	  - 
+*/
+
+

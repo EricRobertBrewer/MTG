@@ -1,0 +1,54 @@
+6 Forest
+2 Ghost Quarter
+3 Glacial Fortress
+4 Hinterland Harbor
+2 Island
+4 Plains
+4 Sunpetal Grove
+
+1 Acidic Slime
+4 Fiend Hunter
+1 Frost Titan
+3 Leonin, Relic-Warder
+3 Phantasmal Image
+3 Solemn Simulacrum
+3 Sun Titan
+4 Viridian Emissary
+
+3 Venser, the Sojourner
+
+3 Saving Grasp
+
+4 Rampant Growth
+
+3 Mortarpod
+
+0
+1 Beast Within
+3 Day of Judgment
+2 Divine Offering
+1 Elesh Norn, Grand Cenobite
+1 Karn Liberated
+1 Thrun, the Last Troll
+2 Timely Reinforcements
+
+Maindeck Curve:
+Land - 25
+0    - 0
+1    - 1
+2    - 13
+3    - 6
+4    - 8
+5    - 3
+6    - 3
+7    - 1
+8+   - 0
+X    - 0
+
+/*
+GWSuperFriends.txt
+Eric Brewer
+1/21/12
+G/W Super Friends - 
+
+*/

@@ -1,0 +1,243 @@
+/*
+M12.txt
+Eric Brewer
+9/10/11
+M12 booster draft - 
+*/
+
+White(40)
+Gideon Jura - m
+Angelic Destiny - m
+Archon of Justice - r
+Sun Titan - m
+Aegis Angel - r
+Serra Angel - u
+Oblivion Ring - u
+Day of Judgment - r
+Pacifism - c
+Gideon's Avenger - r
+Gideon's Lawkeeper - c
+Assault Griffin - c
+Stormfront Pegasus - c
+Timely Reinforcements - u
+Arbalest Elite - u
+Alabaster Mage - u
+Stave Off - c
+Honor of the Pure - r
+Peregrine Griffin - c
+Celestial Purge - u
+Griffin Sentinel - c
+Armored Warhorse - c
+Mighty Leap - c
+Benalish Veteran - c
+Spirit Mantle - u
+Siege Mastodon - c
+Roc Egg - u
+Stonehorn Dignitary - c
+Grand Abolisher - r
+Griffin Rider - c
+Elite Vanguard - u
+Demystify - c
+Guardian's Pledge - c
+Pride Guardian - c
+Auramancer - c
+Divine Favor - c
+Mesa Enchantress - r
+Lifelink - c
+Angel's Mercy - c
+Personal Sanctuary - r
+
+Blue(40)
+Jace, Memory Adept - m
+Frost Titan - m
+Sphinx of Uthuun - r
+Djinn of Wishes - r
+Mind Control - u
+Mind Unbound - r
+Belltower Sphinx - u
+Aether Adept - c
+Phantasmal Dragon - u
+Phantasmal Image - r
+Azure Mage - u
+Merfolk Looter - c
+Chasm Drake - c
+Skywinder Drake - c
+Aven Fleetwing - c
+Divination - c
+Unsummon - c
+Mana Leak - c
+Redirect - r
+Flashfreeze - u
+Turn to Frog - u
+Jace's Archivist - r
+Lord of the Unreal - r
+Amphin Cutthroat - c
+Phantasmal Bear - c
+Ice Cage - c
+Coral Merfolk - c
+Alluring Siren - u
+Negate - c
+Ponder - c
+Frost Breath - c
+Cancel - c
+Master Thief - u
+Harbor Serpent - c
+Visions of Beyond - r
+Levitation - u
+Merfolk Mesmerist - c
+Jace's Erasure - c
+Time Reversal - m
+Flight - c
+
+Black(40)
+Grave Titan - m
+Sorin Markov - m
+Rune-Scarred Demon - r
+Sorin's Vengeance - r
+Bloodlord of Vaasgoth - m
+Cemetary Reaper - r
+Doom Blade - c
+Royal Assassin - r
+Sengir Vampire - u
+Call to the Grave - r
+Vengeful Pharoah - r
+Vampire Outcasts - u
+Sorin's Thirst - c
+Gravedigger - c
+Wring Flesh - c
+Child of Night - c
+Drifting Shade - c
+Devouring Swarm - c
+Onyx Mage - u
+Reassembling Skeleton - u
+Deathmark - u
+Consume Spirit - u
+Tormented Soul - c
+Duskhunter Bat - c
+Warpath Ghoul - c
+Mind Rot - c
+Bloodrage Vampire - c
+Zombie Goliath - c
+Distress - c
+Blood Seeker - c
+Diabolic Tutor - u
+Brink of Disaster - c
+Hideous Visage - c
+Disentomb - c
+Dark Favor - c
+Smallpox - u
+Monomania - r
+Sutured Ghoul - r
+Zombie Infestation - u
+Taste of Blood - c
+
+Red(40)
+Inferno Titan - m
+Flameblast Dragon - r
+Chandra, the Firebrand - m
+Fireball - u
+Furyborn Hellkite - m
+Grim Lavamancer - r
+Incinerate - c
+Shock - c
+Chandra's Outrage - c
+Warstorm Surge - r
+Volcanic Dragon - u
+Gorehorn Minotaurs - c
+Blood Ogre - c
+Goblin Fireslinger - c
+Stormblood Berserker - u
+Chandra's Phoenix - r
+Bonebreaker Giant - c
+Combust - u
+Fiery Hellhound - c
+Goblin Arsonist - c
+Goblin Tunneler - c
+Slaughter Cry - c
+Crimson Mage - u
+Manic Vandal - c
+Goblin Piker - c
+Reverberate - r
+Lava Axe - c
+Manabarbs - r
+Goblin Chieftain - r
+Wall of Torches - c
+Act of Treason - c
+Goblin Bangchuckers - u
+Lightning Elemental - c
+Tectonic Rift - u
+Goblin Grenade - u
+Goblin War Paint - c
+Fling - c
+Circle of Flame - u
+Firebreathing - c
+Scrambleverse - r
+
+Green(40)
+Garruk, Primal Hunter - m
+Arachnus Spinner - r
+Stingerfling Spider - u
+Overrun - u
+Acidic Slime - u
+Primordial Hydra - m
+Primeval Titan - m
+Skinshifter - r
+Cudgel Troll - u
+Elvish Archdruid - r
+Garruk's Horde - r
+Carnage Wurm - u
+Arachnus Web - c
+Jade Mage - u
+Dungrove Elder - r
+Giant Spider - c
+Hunter's Insight - u
+Llanowar Elves - c
+Garruk's Companion - c
+Greater Basilisk - c
+Plummet - c
+Vastwood Gorger - c
+Stampeding Rhino - c
+Trollhide - c
+Titanic Growth - c
+Runeclaw Bear - c
+Birds of Paradise - r
+Rampant Growth - c
+Sacred Wolf - c
+Lurking Crocodile - c
+Brindle Boar - c
+Naturalize - c
+Autumn's Veil - u
+Fog - c
+Lure - u
+Gladecover Scout - c
+Bountiful Harvest - c
+Reclaim - c
+Rites of Flourishing - r
+Doubling Chant - r
+
+Colorless(23)
+Pentavus - r
+Throne of Empires - r
+Solemn Simulacrum - r
+Crown of Empires - u
+Adaptive Automaton - r
+Rusted Sentinel - u
+Manalith - u
+Scepter of Empires - u
+Swiftfoot Boots - u
+Crumbling Colossus - u
+Greatsword - u
+Thran Golem - u
+Kite Shield - u
+Elixir of Immortality - u
+Quicksilver Amulet - r
+Sundial of the Infinite - r
+Worldslayer - r
+Dragon's Claw - u
+Demon's Horn - u
+Angel's Feather - u
+Wurm's Tooth - u
+Kraken's Eye - u
+
+Land(1)
+Buried Ruin - u

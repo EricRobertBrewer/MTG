@@ -1,0 +1,63 @@
+6 Forest
+1 Mountain
+1 Plains
+2 Savannah
+2 Serra's Sanctum
+1 Taiga
+4 Windswept Heath
+4 Wooded Foothills
+
+4 Argothian Enchantress
+
+1 Enlightened Tutor
+
+2 Replenish
+
+2 Chrome Mox
+
+1 Blood Moon
+4 Elephant Grass
+4 Enchantress's Presence
+2 Mirri's Guile
+2 Oblivion Ring
+1 Sacred Mesa
+3 Solitary Confinement
+4 Sterling Grove
+4 Utopia Sprawl
+4 Wild Growth
+1 Words of War
+
+Sideboard
+1 Blood Moon
+2 Choke
+1 City of Solitude
+1 Dovescape
+2 Enlightened Tutor
+1 Femeref Enchantress
+1 Ground Seal
+1 Humility
+1 Karmic Justice
+1 Runed Halo
+1 Seal of Primordium
+1 Stony Silence
+1 Wheel of Sun and Moon
+
+Mana Curve
+Land  - 21
+0     - 2
+1     - 15
+2     - 9
+3     - 11
+4     - 2
+5     - 0
+6     - 0
+7     - 0
+8+    - 0
+X     - 0
+
+/*
+Enchantress.txt
+Eric Brewer
+12/15/11
+Enchantress -
+*/

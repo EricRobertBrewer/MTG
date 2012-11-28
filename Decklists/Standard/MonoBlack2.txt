@@ -1,0 +1,50 @@
+24 Swamp
+4 Inkmoth Nexus
+
+3 Grave Titan
+4 Reassembling Skeleton
+
+4 Liliana of the Veil
+
+3 Doom Blade
+1 Go for the Throat
+2 Virulent Wound
+
+3 Black Sun's Zenith
+4 Distress
+4 Smallpox
+
+1 Batterskull
+2 Sword of Feast and Famine
+
+1 Curse of Death's Hold
+
+0
+1 Batterskull
+1 Curse of Death's Hold
+2 Despise
+4 Phyrexian Crusader
+3 Ratchet Bomb
+4 Sorin's Thirst
+
+Mana Curve
+Land  - 28
+0     - 0
+1     - 2
+2     - 16
+3     - 6
+4     - 0
+5     - 0
+6     - 4
+7     - 0
+8+    - 0
+X     - 3
+
+/*
+MonoBlack2.txt
+Eric Brewer
+12/5/11
+Mono Black Control - 
+
+
+*/

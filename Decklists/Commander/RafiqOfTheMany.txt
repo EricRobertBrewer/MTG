@@ -1,0 +1,69 @@
+/*
+RafiqOfTheMany.txt
+Eric Brewer
+10/1/11
+Enchantress -
+*/
+
+1 Rafiq of the Many
+
+1 Bant Panorama
+1 Evolving Wilds
+1 Glacial Fortress
+1 Graypelt Refuge
+1 Mistveil Plains
+1 Misty Rainforest
+1 Mystic Gate
+1 Seaside Citadel
+1 Sejiri Refuge
+1 Skycloud Expanse
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Terramorphic Expanse
+1 Wooded Bastion
+
+1 Auratog
+1 Auratouched Mage
+1 Femeref Enchantress
+1 Kor Spititdancer
+1 Mesa Enchantress
+1 Sovereigns of Lost Alara
+1 Verduran Enchantress
+1 Yavimaya Enchantress
+
+1 Enlightened Tutor
+
+1 Open the Vaults
+1 Replenish
+1 Retether
+1 Three Dreams
+
+1 Auramancer's Guise
+1 Awakening Zone
+1 Eldrazi Conscription
+1 Enchanted Evening
+1 Enchantress's Presence
+1 Energy Flux
+1 Future Sight
+1 Ground Seal
+1 Honden of Cleansing Fire
+1 Honden of Seeing Winds
+1 Karmic Justice
+1 Lignify
+1 Mirari's Wake
+1 Privleged Position
+1 Opalescence
+1 Seal of Cleansing
+1 Seal of Primordium
+1 Shielding Plax
+1 Sigil of the Empty Throne
+1 Solitary Confinement
+1 Spreading Seas
+1 Stony Silence
+1 Take Possession
+1 Temporal Isolation
+1 Wheel of Sun and Moon
+1 Words of Wind
+
+---------
+Sideboard

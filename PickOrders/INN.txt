@@ -1,0 +1,271 @@
+/*
+INN.txt
+Eric Brewer
+9/21/11
+Innistrad booster draft - 
+*/
+
+White
+Angelic Overseer - m
+Dearly Departed - r
+Geist-Honored Monk - r
+Mentor of the Meek - r
+Mikaeus, the Lunarch - m
+Angel of Flight Alabaster - r
+Slayer of the Wicked - u
+Fiend Hunter - u
+Bonds of Faith - c
+Avacynian Priest - c
+!Gavony Township - r
+Elite Inquisitor - r
+!Moorland Haunt - r
+Gallows Warden - u
+Divine Reckoning - r
+Voiceless Spirit - c
+Chapel Geist - c
+Midnight Haunting - u
+Spectral Rider - u
+!Geist of Saint Traft - m
+Mausoleum Guard - u
+Thraben Sentry - c
+Elder Cathar - c
+Smite the Monstrous - c
+Silverchase Fox - c
+Abbey Griffin - c
+Rebuke - c
+Village Bell-Ringer - c
+Doomed Traveler - c
+Champion of the Parish - r
+Moment of Heroism - c
+Selfless Cathar - c
+Unruly Mob - c
+Cloistered Youth - u
+Thraben Purebloods - c
+Spare from Evil - c
+*Feeling of Dread - c
+Urgent Exorcism - c
+Purify the Grave - u
+*Rally the Peasants - u
+Ghostly Possession - c
+Paraselene - u
+Stony Silence - r
+Intangible Virtue - u
+Nevermore - r
+
+Blue
+Sturmgeist - r
+Murder of Crows - u
+!Grimgrin, Corpse-Born - m
+Mirror-Mad Phantasm - m
+!Evil Twin - r
+Mindshrieker - r
+!Moorland Haunt - r
+Back from the Brink - r
+Grasp of Phantoms - u
+Silent Departure - c
+Caustrophobia - c
+Deranged Assistant - c
+Civilized Scholar - u
+Moon Heron - c
+Stitched Drake - c
+Skaab Goliath - u
+Battleground Geist - u
+Undead Alchemist - r
+Makeshift Mauler - c
+Cackling Counterpart - r
+Skaab Ruinator - m
+Lantern Spirit - u
+!Geist of Saint Traft - m
+Ludevic's Abomination - r
+Think Twice - c
+Armored Skaab - c
+Selhoff Occultist - c
+Stitcher's Apprentice - c
+Curiosity - u
+Spectral Flight - c
+Snapcaster Mage - r
+Invisible Stalker - u
+*Forbidden Alchemy - c
+Dissipate - u
+Fortress Crab - c
+Sensory Deprivation - c
+Lost in the Mist - c
+!Nepahlia Drownyard - r
+Delver of Secrets - c
+Frightful Delusion - c
+Runic Repetition - u
+Laboratory Maniac - r
+Hysterical Blindness - c
+*Memory's Journey - u
+Curse of the Bloody Tome - c
+Dream Twist - c
+Rooftop Storm - r
+
+Black
+Reaper from the Abyss - m
+Bloodline Keeper - r
+!Olivia Voldaren - m
+Bloodgift Demon - r
+!Grimgrin, Corpse-Born - m
+Army of the Damned - m
+Liliana of the Veil - m
+Curse of Death's Hold - r
+!Evil Twin - r
+Sever the Bloodline - r
+Falkenrath Noble - u
+Skirsdag High Priest - r
+Moan of the Unhallowed - u
+Screeching Bat - u
+Abattoir Ghoul - u
+Victim of Night - c
+Dead Weight - c
+Morkrut Banshee - u
+Vampire Interloper - c
+Corpse Lunge - c
+Ghoulraiser - c
+*Unburial Rites - u
+Typhoid Rats - c
+Tribute to Hunger - u
+Markov Patrician - c
+Walking Corpse - c
+!Nephalia Drownyard - r
+Stormkirk Patrol - c
+Rotting Fensnake - c
+Skeletal Grimace - c
+Manor Skeleton - c
+Endless Ranks of the Dead - r
+Unbreathing Horde - r
+!Stensia Bloodhall - r
+Ghoulcaller's Chant - c
+Night Terrors - c
+Village Cannibals - u
+Brain Weevil - c
+Altar's Reap - c
+Bitterheart Witch - u
+Diregraf Ghoul - u
+Disciple of Griselbrand - u
+Bump in the Night - c
+Maw of the Mire - c
+Gruesome Deformity - c
+Curse of Oblivion - c
+Heartless Summoning - r
+
+Red
+Devil's Play - r
+Balefire Dragon - m
+!Olivia Voldaren - m
+Charmbreaker Devils - r
+Brimstone Volley - c
+Falkenrath Marauders - r
+!Kessig Wolf Run - r
+Instigator Gang - r
+Kruin Outlaw - r
+Into the Maw of Hell - u
+Skirsdag Cultist - u
+Harvest Pyre - c
+Heretic's Punishment - r
+Hanweir Watchkeep - u
+Blasphemous Act - r
+Geistflame - c
+Rage Thrower - u
+Kessig Wolf - c
+Pitchburn Devils - c
+Scourge of Geier Reach - u
+Ashmouth Hound - c
+!Stensia Bloodhall - r
+Night Revelers - c
+Village Ironsmith - c
+Tormented Pariah - c
+Crossway Vampire - c
+Rakish Heir - u
+Feral Ridgewolf - c
+Riot Devils - c
+Bloodcrazed Neonate - c
+Stromkirk Noble - r
+Reckless Waif - u
+Curse of the Pierced Heart - c
+Curse of the Nightly Hunt - u
+Rolling Temblor - u
+Traitorous Blood - c
+Curse of Stalked Prey - r
+Nightbird's Clutches - c
+Furor of the Bitten - c
+*Desperate Ravings - u
+Burning Vengeance - u
+*Ancient Grudge - c
+Vampiric Fury - c
+Past in Flames - m
+Infernal Plunge - c
+
+Green
+Garruk Relentless - m
+Elder of Laurels - r
+*Daybreak Ranger - r
+Essence of the Wild - m
+Mayor of Avabruck - r
+Gutter Grime - r
+!Gavony Township - r
+!Kessig Wolf Run - r
+Avacyn's Pilgrim - c
+Kessig Cagebreakers - r
+Prey Upon - c
+Darkthicket Wolf - c
+Gatstaf Shepherd - u
+Ulvenwald Mystics - u
+Villagers of Estwald - c
+*Travel Preparations - c
+Festerhide Boar - c
+Grizzled Outcasts - c
+Ambush Viper - c
+Orchard Spirit - c
+Somberwald Spider - c
+Woodland Sleuth - c
+Hamlet Captain - u
+Tree of Redemption - m
+Lumberknot - u
+Creeping Renaissance - r
+Spidery Grasp - c
+Ranger's Guile - c
+*Spider Spawning - u
+Moldgraf Monstrocity - r
+Splinterfright - r
+Make a Wish - u
+Mulch - c
+Hollowhenge Scavenger - u
+Kindercatch - c
+Grave Bramble - c
+Caravan Vigil - c
+Bramblecrush - u
+Naturalize - c
+Boneyard Wurm - u
+Moonmist - c
+Full Moon's Rise - u
+Parallel Lives - r
+Wreath of Geists - u
+Gnaw to the Bone - c
+
+Colorless
+Manor Gargoyle - r
+Blazing Torch - c
+Butcher's Cleaver - u
+Geistcatcher's Rig - u
+Mask of Avacyn - u
+Galvanic Juggernaut - u
+Traveler's Amulet - c
+Runechanter's Pike - r
+One-Eyed Scarecrow - c
+Cobbled Wings - c
+Creepy Doll - r
+Sharpened Pitchfork - u
+Silver-Inlaid Dagger - u
+Cellar Door - u
+Shimmering Grotto - c
+Wooden Stake - c
+Witchbane Orb - r
+Inquisitor's Flail - u
+Trepanation Blade - u
+Ghost Quarter - u
+Demonmail Hauberk - u
+Grimoire of the Dead - m
+Ghoulcaller's Bell - c
+Graveyard Shovel - u

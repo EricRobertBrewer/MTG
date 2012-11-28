@@ -1,0 +1,295 @@
+ INN INN INN
+ROUND: 1
+PACK: 1
+ 1 Splinterfright|2G|Creature - Elemental */*|Rare
+ 2 Grasp of Phantoms|3U|Sorcery|Uncommon
+ 3 Sharpened Pitchfork|2|Artifact - Equipment|Uncommon
+ 4 Wreath of Geists|G|Enchantment - Aura|Uncommon
+ 5 Shimmering Grotto||Land|Common
+ 6 Feral Ridgewolf|2R|Creature - Wolf 1/2|Common
+ 7 Bonds of Faith|1W|Enchantment - Aura|Common
+ 8 Nightbird's Clutches|1R|Sorcery|Common
+ 9 Gnaw to the Bone|2G|Instant|Common
+10 Curse of Oblivion|3B|Enchantment - Curse|Common
+11 Altar's Reap|1B|Instant|Common
+12 Deranged Assistant|1U|Creature - Human Wizard 1/1|Common
+13 Ghoulraiser|1BB|Creature - Zombie 2/2|Common
+14 Geistflame|R|Instant|Common
+15 Delver of Secrets // Insectile Aberration|U|Creature - Human Wizard 1/1 // Human Insect 3/2|Uncommon
+PACK: 2
+ 1 Clifftop Retreat|Land|Rare
+ 2 Spectral Rider|WW|Creature - Spirit Knight 2/2|Uncommon
+ 3 Midnight Haunting|2W|Instant|Uncommon
+ 4 Hollowhenge Scavenger|3GG|Creature - Elemental 4/5|Uncommon
+ 5 Bonds of Faith|1W|Enchantment - Aura|Common
+ 6 Feeling of Dread|1W|Instant|Common
+ 7 Deranged Assistant|1U|Creature - Human Wizard 1/1|Common
+ 8 Forbidden Alchemy|2U|Instant|Common
+ 9 Corpse Lunge|2B|Instant|Common
+10 Somberwald Spider|4G|Creature - Spider 2/4|Common
+11 Avacyn's Pilgrim|G|Creature - Human Monk 1/1|Common
+12 Wooden Stake|2|Artifact - Equipment|Common
+13 Altar's Reap|1B|Instant|Common
+14 Fortress Crab|3U|Creature - Crab 1/6|Common
+15 Villagers of Estwald // Howlpack of Estwald|2G|Creature - Human Werewolf 2/3 // Werewolf 4/6|Common
+PACK: 3
+ 1 Unbreathing Horde|2B|Creature - Zombie 0/0|Rare
+ 2 Falkenrath Noble|3B|Creature - Vampire 2/2|Uncommon
+ 3 Scourge of Geier Reach|3RR|Creature - Elemental 3/3|Uncommon
+ 4 Intangible Virtue|1W|Enchantment|Uncommon
+ 5 Orchard Spirit|2G|Creature - Spirit 2/2|Common
+ 6 Bonds of Faith|1W|Enchantment - Aura|Common
+ 7 Shimmering Grotto||Land|Common
+ 8 Festerhide Boar|3G|Creature - Boar 3/3|Common
+ 9 Altar's Reap|1B|Instant|Common
+10 Bump in the Night|B|Sorcery|Common
+11 Rebuke|2W|Instant|Common
+12 Riot Devils|2R|Creature - Devil 2/3|Common
+13 Forbidden Alchemy|2U|Instant|Common
+14 Voiceless Spirit|2W|Creature - Spirit 2/1|Common
+15 Thraben Sentry // Thraben Militia|3W|Creature - Human Soldier 2/2 // Human Soldier 5/4|Common
+PACK: 4
+ 1 Mentor of the Meek|2W|Creature - Human Soldier 2/2|Rare
+ 2 Intangible Virtue|1W|Enchantment|Uncommon
+ 3 Unburial Rites|4B|Sorcery|Uncommon
+ 4 Runic Repetition|2U|Sorcery|Uncommon
+ 5 Caravan Vigil|G|Sorcery|Common
+ 6 Orchard Spirit|2G|Creature - Spirit 2/2|Common
+ 7 Avacynian Priest|1W|Creature - Human Cleric 1/2|Common
+ 8 Curse of Oblivion|3B|Enchantment - Curse|Common
+ 9 Dream Twist|U|Instant|Common
+10 Skeletal Grimace|1B|Enchantment - Aura|Common
+11 Maw of the Mire|4B|Sorcery|Common
+12 Voiceless Spirit|2W|Creature - Spirit 2/1|Common
+13 Ghoulcaller's Chant|B|Sorcery|Common
+14 Vampire Interloper|1B|Creature - Vampire Scout 2/1|Common
+15 Screeching Bat // Stalking Vampire|2B|Creature - Bat 2/2 // Vampire 5/5|Uncommon
+PACK: 5
+ 1 Elder of Laurels|2G|Creature - Human Advisor 2/3|Rare
+ 2 Lumberknot|2GG|Creature - Treefolk 1/1|Uncommon
+ 3 Wreath of Geists|G|Enchantment - Aura|Uncommon
+ 4 Spectral Rider|WW|Creature - Spirit Knight 2/2|Uncommon
+ 5 Furor of the Bitten|R|Enchantment - Aura|Common
+ 6 Ashmouth Hound|1R|Creature - Elemental Hound 2/1|Common
+ 7 Brimstone Volley|2R|Instant|Common
+ 8 Riot Devils|2R|Creature - Devil 2/3|Common
+ 9 Silent Departure|U|Sorcery|Common
+10 Bonds of Faith|1W|Enchantment - Aura|Common
+11 Prey Upon|G|Instant|Common
+12 Cobbled Wings|2|Artifact - Equipment|Common
+13 Chapel Geist|1WW|Creature - Spirit 2/3|Common
+14 Spidery Grasp|2G|Instant|Common
+15 Village Ironsmith // Ironfang|1R|Creature - Human Werewolf 1/1 // Werewolf 3/1|Common
+PACK: 6
+ 1 Reaper from the Abyss|3BBB|Creature - Demon 6/6|Mythic Rare
+ 2 Trepanation Blade|3|Artifact - Equipment|Uncommon
+ 3 Dissipate|1UU|Instant|Uncommon
+ 4 Cellar Door|2|Artifact|Uncommon
+ 5 Wooden Stake|2|Artifact - Equipment|Common
+ 6 Stitcher's Apprentice|1U|Creature - Homonculus 1/2|Common
+ 7 Frightful Delusion|2U|Instant|Common
+ 8 Manor Skeleton|1B|Creature - Skeleton 1/1
+ 9 Spare from Evil|1W|Instant|Common
+10 Shimmering Grotto||Land|Common
+11 Bloodcrazed Neonate|1R|Creature - Vampire 2/1|Common
+12 Corpse Lunge|2B|Instant|Common
+13 Spectral Flight|1U|Enchantment - Aura|Common
+14 Selhoff Occultist|2U|Creature - Human Rogue 2/3|Common
+15 Ulvenwald Mystics // Ulvenwald Primordials|2GG|Creature - Human Shaman Werewolf 3/3 // Werewolf 5/5|Uncommon
+
+ROUND: 2
+PACK: 1
+ 1 Blasphemous Act|8R|Sorcery|Rare
+ 2 Ghost Quarter||Land|Uncommon
+ 3 Rakish Heir|2R|Creature - Vampire 2/2|Uncommon
+ 4 Bramblecrush|2GG|Sorcery|Uncommon
+ 5 Maw of the Mire|4B|Sorcery|Common
+ 6 Travel Preparations|1G|Sorcery|Common
+ 7 Ranger's Guile|G|Instant|Common
+ 8 Stromkirk Patrol|4B|Creature - Vampire Soldier 4/3|Common
+ 9 Selhoff Occultist|2U|Creature - Human Rogue 2/3|Common
+10 Kessif Wolf|2R|Creature - Wolf 3/1|Common
+11 Feral Ridgewolf|2R|Creature - Wolf 1/2|Common
+12 Vampire Interloper|1B|Creature - Vampire Scout 2/1|Common
+13 Hysterical Blindless|2U|Instant|Common
+14 Curse of the Pierced Heart|1R|Enchantment - Curse|Common
+15 Village Ironsmith // Ironfang|1R|Creature - Human Werewolf 1/1 // Werewolf 3/1|Common
+PACK: 2
+ 1 Stensia Bloodhall||Land|Rare
+ 2 Burning Vengeance|2R|Enchantment|Uncommon
+ 3 Purify the Grave|W|Instant|Uncommon
+ 4 Memory's Journey|1U|Instant|Uncommon
+ 5 Ghoulcaller's Bell|1|Artifact|Common
+ 6 Selhoff Occultist|2U|Creature - Human Rogue 2/3|Common
+ 7 Gnaw to the Bone|2G|Instant|Common
+ 8 Kessif Wolf|2R|Creature - Wolf 3/1|Common
+ 9 Typhoid Rats|B|Creature - Rat 1/1|Common
+10 Travel Preparations|1G|Sorcery|Common
+11 Corpse Lunge|2B|Instant|Common
+12 Frightful Delusion|2U|Instant|Common
+13 Ghostly Possession|2W|Enchantment - Aura|Common
+14 Doomed Traveler|W|Creature - Human Soldier 1/1|Common
+15 Civilized Scholar // Homicidal Brute|2U|Creature - Human Advisor 0/1 // Human Mutant 5/1|Uncommon
+PACK: 3
+ 1 Endless Ranks of the Dead|2BB|Enchantment|Rare
+ 2 Paraselene|2W|Sorcery|Uncommon
+ 3 Grasp of Phantoms|3U|Sorcery|Uncommon
+ 4 Fiend Hunter|1WW|Creature - Human Cleric 1/3|Uncommon
+ 5 Unruly Mob|1W|Creature - Human |Common
+ 6 Feral Ridgewolf|2R|Creature - Wolf 1/2|Common
+ 7 Somberwald Spider|4G|Creature - Spider 2/4|Common
+ 8 Curse of Oblivion|3B|Enchantment - Curse|Common
+ 9 Curse of the Pierced Heart|1R|Enchantment - Curse|Common
+10 Traveler's Amulet|1|Artifact|Common
+11 Bloodcrazed Neonate|1R|Creature - Vampire 2/1|Common
+12 Ranger's Guile|G|Instant|Common
+13 Brain Weevil|3B|Creature - Insect 1/1|Common
+14 Maw of the Mire|4B|Sorcery|Common
+15 Civilized Scholar // Homicidal Brute|2U|Creature - Human Advisor 0/1 // Human Mutant 5/1|Uncommon
+PACK: 4
+ 1 Falkenrath Marauders|3RR|Creature - Vampire 2/2|Rare
+ 2 Gallows Warden|4W|Creature - Spirit 3/3|Uncommon
+ 3 Wreath of Geists|G|Enchantment - Aura|Uncommon
+ 4 Dissipate|1UU|Instant|Uncommon
+ 5 Stitcher's Apprentice|1U|Creature - Homonculus 1/2|Common
+ 6 Selhoff Occultist|2U|Creature - Human Rogue 2/3|Common
+ 7 Pitchburn Devils|4R|Creature - Devil 3/3|Common
+ 8 Rebuke|2W|Instant|Common
+ 9 Altar's Reap|1B|Instant|Common
+10 Night Revelers|4R|Creature - Vampire 4/4|Common
+11 Caravan Vigil|G|Sorcery|Common
+12 Typhoid Rats|B|Creature - Rat 1/1|Common
+13 Ranger's Guile|G|Instant|Common
+14 Bump in the Night|B|Sorcery|Common
+15 Village Ironsmith // Ironfang|1R|Creature - Human Werewolf 1/1 // Werewolf 3/1|Common
+PACK: 5
+ 1 Snapcaster Mage|1U|Creature - Human Wizard 2/1|Rare
+ 2 Mausoleum Guard|3W|Creature - Human Scout 2/2|Uncommon
+ 3 Trepanation Blade|3|Artifact - Equipment|Uncommon
+ 4 Hamlet Captain|1G|Creature - Human Warrior 2/2|Uncommon
+ 5 Harvest Pyre|1R|Instant|Common
+ 6 Gruesome Deformity|B|Enchantment - Aura|Common
+ 7 Kindercatch|3GGG|Creature - Spirit 6/6|Common
+ 8 Bloodcrazed Neonate|1R|Creature - Vampire 2/1|Common
+ 9 Moment of Heroism|1W|Instant|Common
+10 Abbey Griffin|3W|Creature - Griffin 2/2|Common
+11 Smite the Monstrous|3W|Instant|Common
+12 Markhov Patrician|2B|Creature - Vampire 3/1|Common
+13 Hysterical Blindless|2U|Instant|Common
+14 Infernal Plunge|R|Sorcery|Common
+15 Grizzled Outcasts // Krallenhorde Wantons|4G|Creature - Human Werewolf 4/4 // Werewolf 7/7|Common
+PACK: 6
+ 1 Devil's Play|XR|Sorcery|Rare
+ 2 Sharpened Pitchfork|2|Artifact - Equipment|Uncommon
+ 3 Rage Thrower|5R|Creature - Human Shaman 4/2|Uncommon
+ 4 Intangible Virtue|1W|Enchantment|Uncommon
+ 5 Rotting Fensnake|3B|Creature - Zombie Snake 5/1|Common
+ 6 Curse of Oblivion|3B|Enchantment - Curse|Common
+ 7 Dream Twist|U|Instant|Common
+ 8 Stitcher's Apprentice|1U|Creature - Homonculus 1/2|Common
+ 9 Skeletal Grimace|1B|Enchantment - Aura|Common
+10 Night Revelers|4R|Creature - Vampire 4/4|Common
+11 Orchard Spirit|2G|Creature - Spirit 2/2|Common
+12 Sensory Deprivation|U|Enchantment - Aura|Common
+13 Stromkirk Patrol|4B|Creature - Vampire Soldier 4/3|Common
+14 Shimmering Grotto||Land|Common
+15 Civilized Scholar // Homicidal Brute|2U|Creature - Human Advisor 0/1 // Human Mutant 5/1|Uncommon
+
+ROUND: 3
+PACK: 1
+ 1 Nevermore|1WW|Enchantment|Rare
+ 2 Morkrut Banshee|3BB|Creature - Spirit 4/4|Uncommon
+ 3 Purify the Grave|W|Instant|Uncommon
+ 4 Falkenrath Noble|3B|Creature - Vampire 2/2|Uncommon
+ 5 Deranged Assistant|1U|Creature - Human Wizard 1/1|Common
+ 6 Unruly Mob|1W|Creature - Human |Common
+ 7 Somberwald Spider|4G|Creature - Spider 2/4|Common
+ 8 Altar's Reap|1B|Instant|Common
+ 9 Blazing Torch|1|Artifact - Equipment|Common
+10 Darkthicket Wolf|1G|Creature - Wolf 2/2|Common
+11 Bump in the Night|B|Sorcery|Common
+12 Elder Cathar|2W|Creature - Human Soldier 2/2|Common
+13 Stromkirk Patrol|4B|Creature - Vampire Soldier 4/3|Common
+14 Ambush Viper|1G|Creature - Snake 2/1|Common
+15 Reckless Waif // Merciless Predator|R|Creature - Human Rogue Werewolf // Werewolf 3/2|Uncommon
+PACK: 2
+ 1 Undead Alchemist|3U|Creature - Zombie 4/2|Rare
+ 2 Burning Vengeance|2R|Enchantment|Uncommon
+ 3 Rakish Heir|2R|Creature - Vampire 2/2|Uncommon
+ 4 Unburial Rites|4B|Sorcery|Uncommon
+ 5 Wooden Stake|2|Artifact - Equipment|Common
+ 6 Stitcher's Apprentice|1U|Creature - Homonculus 1/2|Common
+ 7 Lost in the Mist|3UU|Instant|Common
+ 8 Dream Twist|U|Instant|Common
+ 9 Curse of Oblivion|3B|Enchantment - Curse|Common
+10 Forbidden Alchemy|2U|Instant|Common
+11 Ranger's Guile|G|Instant|Common
+12 Bonds of Faith|1W|Enchantment - Aura|Common
+13 Armored Skaab|2U|Creature - Zombie Warrior 1/4|Common
+14 Night Terrors|2B|Sorcery|Common
+15 Gatstaf Shepherd // Gatstaf Howler|1G|Creature - Human Werewolf 2/2 // Werewolf 3/3|Uncommon
+PACK: 3
+ 1 Woodland Cemetary||Land|Rare
+ 2 Into the Maw of Hell|4RR|Sorcery|Uncommon
+ 3 Disciple of Griselbrand|1B|Creature - Human Cleric 1/1|Uncommon
+ 4 Hollowhenge Scavenger|3GG|Creature - Elemental 4/5|Uncommon
+ 5 Bump in the Night|B|Sorcery|Common
+ 6 One-Eyed Scarecrow|3|Artifact Creature - Scarecrow 2/3|Common
+ 7 Cobbled Wings|2|Artifact - Equipment|Common
+ 8 Doomed Traveler|W|Creature - Human Soldier 1/1|Common
+ 9 Typhoid Rats|B|Creature - Rat 1/1|Common
+10 Rebuke|2W|Instant|Common
+11 Victim of Night|BB|Instant|Common
+12 Corpse Lunge|2B|Instant|Common
+13 Kessif Wolf|2R|Creature - Wolf 3/1|Common
+14 Stitched Drake|1UU|Creature - Zombie Drake 3/4|Common
+15 Delver of Secrets // Insectile Aberration|U|Creature - Human Wizard 1/1 // Human Insect 3/2|Uncommon
+PACK: 4
+ 1 Curse of Stalked Prey|1R|Enchantment - Curse|Rare
+ 2 Morkrut Banshee|3BB|Creature - Spirit 4/4|Uncommon
+ 3 Silver-Inlaid Dagger|1 |Artifact - Equipment|Uncommon
+ 4 Desperate Ravings|1R|Instant|Uncommon
+ 5 Moment of Heroism|1W|Instant|Common
+ 6 Darkthicket Wolf|1G|Creature - Wolf 2/2|Common
+ 7 Crossway Vampire|1RR|Creature - Vampire 3/2|Common
+ 8 Thraben Purebloods|4W|Creature - Hound 3/5|Common
+ 9 Fortress Crab|3U|Creature - Crab 1/6|Common
+10 Hysterical Blindless|2U|Instant|Common
+11 Ghoulcaller's Chant|B|Sorcery|Common
+12 Smite the Monstrous|3W|Instant|Common
+13 Gnaw to the Bone|2G|Instant|Common
+14 Moon Heron|3U|Creature - Spirit Bird 3/2|Common
+15 Delver of Secrets // Insectile Aberration|U|Creature - Human Wizard 1/1 // Human Insect 3/2|Uncommon
+PACK: 5
+ 1 Kessig Cagebreakers|4G|Creature - Human Rogue 3/4|Rare
+ 2 Moan of the Unhallowed|2BB|Sorcery|Uncommon
+ 3 Runic Repetition|2U|Sorcery|Uncommon
+ 4 Trepanation Blade|3|Artifact - Equipment|Uncommon
+ 5 Somberwald Spider|4G|Creature - Spider 2/4|Common
+ 6 Wooden Stake|2|Artifact - Equipment|Common
+ 7 Travel Preparations|1G|Sorcery|Common
+ 8 One-Eyed Scarecrow|3|Artifact Creature - Scarecrow 2/3|Common
+ 9 Brimstone Volley|2R|Instant|Common
+10 Selfless Cathar|W|Creature - Human Cleric 1/1|Common
+11 Harvest Pyre|1R|Instant|Common
+12 Gnaw to the Bone|2G|Instant|Common
+13 Dead Weight|B|Enchantment - Aura|Common
+14 Chapel Geist|1WW|Creature - Spirit 2/3|Common
+15 Village Ironsmith // Ironfang|1R|Creature - Human Werewolf 1/1 // Werewolf 3/1|Common
+PACK: 6
+ 1 Heretic's Punishment|4R|Enchantment|Rare
+ 2 Skirsdag Cultist|2RR|Creature - Human Shaman 2/2|Uncommon
+ 3 Rakish Heir|2R|Creature - Vampire 2/2|Uncommon
+ 4 Invisible Stalker|1U|Creature - Human Rogue 1/1|Uncommon
+ 5 Manor Skeleton|1B|Creature - Skeleton 1/1
+ 6 Harvest Pyre|1R|Instant|Common
+ 7 Corpse Lunge|2B|Instant|Common
+ 8 Typhoid Rats|B|Creature - Rat 1/1|Common
+ 9 Traitorous Blood|1RR|Sorcery|Common
+10 Deranged Assistant|1U|Creature - Human Wizard 1/1|Common
+11 Bonds of Faith|1W|Enchantment - Aura|Common
+12 Silent Departure|U|Sorcery|Common
+13 Crossway Vampire|1RR|Creature - Vampire 3/2|Common
+14 Doomed Traveler|W|Creature - Human Soldier 1/1|Common
+15 Tormented Pariah // Rampaging Werewolf|3R|Creature - Human Warrior Werewolf 3/2 // Werewolf 6/4|Common
+

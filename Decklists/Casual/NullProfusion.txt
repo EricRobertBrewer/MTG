@@ -1,0 +1,42 @@
+16 Swamp
+4 Vault of Whispers
+
+4 Memnite
+4 Phylactery Lich
+
+4 Cabal Ritual
+4 Dark Ritual
+
+4 Sign in Blood
+
+4 Darksteel Relic
+4 Mind Stone
+4 Spellbook
+4 Welding Jar
+
+4 Null Profusion
+
+----------
+Sideboard
+
+----------
+Mana Curve
+Lands - 20
+0     - 
+1     - 
+2     - 
+3     - 
+4     - 
+5     - 
+6     - 
+7     - 
+8+    - 
+X     - 
+
+/*
+NullProfusion.txt
+Eric Brewer
+12/20/11
+Null Profusion - 
+
+*/
